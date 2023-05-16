@@ -1,3 +1,9 @@
+# About this fork
+
+This fork fixes a [pasting issue](https://github.com/knqyf263/pet/issues/179) by simply replacing the unmaintained `gocui` library with a community-maintained version (`awesome-gocui/gocui`).
+
+This is just a temporary fix, and I'm not sure if it will cause more problems.
+
 # pet : CLI Snippet Manager
 
 [![GitHub release](https://img.shields.io/github/release/knqyf263/pet.svg)](https://github.com/knqyf263/pet/releases/latest)
